@@ -14,18 +14,30 @@
 
 
 
-​						<u>**Projeto de Treinos Gratuitos para pessoas que desejam melhorar a sua saúde**</u>
+​			     
+
+##### 					**Plano de Treino criado para ajudar pessoas que queiram melhorar a sua saúde **
 
 
 
-​				Segunda-feira
+​				**Segunda-feira**
 
-​				Terça-feira
+| Peito     | *supino reto*          | *Supino inclinado*    |
+| --------- | ---------------------- | --------------------- |
+| **Ombro** | ***elevaçao lateral*** | ***desenvolvimento*** |
 
-​				Quarta-feira
+​				**Terça-feira**
 
-​				Quinta-feira
+| Costas     | *remada alta*    | *puxada frontal* |
+| ---------- | ---------------- | ---------------- |
+| **Bìceps** | **rosca direta** | **scott**        |
 
-​				Sexta-feira
 
-​				Sábado
+
+​				**Quarta-feira**
+
+​				**Quinta-feira**
+
+​				**Sexta-feira**
+
+​				**Sábado**
